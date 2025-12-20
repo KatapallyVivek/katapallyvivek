@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Web3 and Blockchain**
+- ✨ Explore my projects → [https://github.com/KatapallyVivek?tab=repositories](https://github.com/KatapallyVivek?tab=repositories)
 
 - 💬 Ask me about **Web Development and DSA**
 
