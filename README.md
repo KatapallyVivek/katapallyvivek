@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Vivek Katapally</h1>
-<h3 align="center">A Full Stack Developer with DevOps basics and beginner to Web3 experience.</h3>
+<h3 align="center">A Full Stack Developer and beginner to Web3 experience.</h3>
 
 - 🌱 I’m currently learning **DevOps, DSA and Block Chain**
 
@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/vicky__0_3_1_2___" target="blank">
+  <a href="https://leetcode.com/u/Vivekkatapally/" target="blank">
     <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="vicky__0_3_1_2___" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" 
+         alt="VivekKatapally" 
          height="30" 
          width="40" />
   </a>
