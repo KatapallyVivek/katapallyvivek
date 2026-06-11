@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Vivek Katapally</h1>
-<h3 align="center">A Full Stack Developer and beginner to Web3 experience.</h3>
+<h3 align="center">A Full Stack Developer and beginner to AI/ML.</h3>
 
-- 🌱 I’m currently learning **DevOps, DSA and Block Chain**
+- 🌱 I’m currently learning **DevOps, DSA and AI/ML**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
